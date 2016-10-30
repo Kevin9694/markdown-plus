@@ -1,0 +1,39 @@
+@font-face{
+    font-family: sanslight;
+    src: url('/sanslight.ttf');
+}
+@font-face{
+    font-family: angelina;
+    src: url('/angelina.ttf');
+}
+@font-face{
+    font-family: bethhrg;
+    src: url('/bethhrg.ttf');
+}
+@font-face{
+    font-family: klee;
+    src: url('/klee.ttc');
+}
+@font-face{
+    font-family: dancingscript;
+    src: url('/dancingscript.otf');
+}
+
+sanslight{
+    font-family: sanslight;
+}
+angelina{
+    font-family: angelina;
+}
+bethhrg{
+    font-family: bethhrg;
+}
+klee{
+    font-family: klee;
+}
+dancingscript{
+    font-family: dancingscript;
+}
+big{
+    font-size: 1.5em;
+}
